@@ -1,0 +1,288 @@
+//请求发牌后
+{
+    "responseStatuCode":"0",
+    "playerNumber":"4",
+    "cardNumber":"6",
+    "cradArray":[
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        }
+    ],
+    "playerArray":[
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        }
+    ]
+}
+
+
+//出牌后
+{
+    "responseStatuCode":"1",
+    "playerNumber":"4",
+    "cardNumber":"4",
+    "cradArray":[
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        }
+    ],
+    "playerArray":[
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        }
+    ]
+}
+
+//跟牌后
+{
+    "responseStatuCode":"2",
+    "playerNumber":"4",
+    "cardNumber":"4",
+    "playerArray":[
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        }
+    ]
+}
+
+//选牌后
+{
+    "responseStatuCode":"3",
+    "playerNumber":"4",
+    "cardNumber":"4",
+    "cradArray":[
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        }
+    ],
+    "playerArray":[
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        }
+    ]
+}
+
+//结束游戏
+{
+    "responseStatuCode":"4",
+    "information":"",
+    "playerArray":[
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        }
+    ]
+}
+
+//服务器错误
+{
+    "responseStatuCode":"5",
+    "errorCode":"",
+    "information":""
+}
+
+//掉线重连后
+{
+    "responseStatuCode":"6",
+    "playerNumber":"4",
+    "cardNumber":"6",
+    "cradArray":[
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        },
+        {
+            "cardId":"",
+            "type":"",
+            "pictureUrl":""
+        }
+    ],
+    "playerArray":[
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        },
+        {
+            "playerId":"",
+            "score":"",
+            "playerStatus":""
+        }
+    ]
+}

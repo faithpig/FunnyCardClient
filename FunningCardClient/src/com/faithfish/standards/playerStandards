@@ -1,0 +1,45 @@
+//请求发牌
+{
+    "requestStatusCode":"0",
+    "playerId":""
+}
+
+//出牌请求
+{
+    "requestStatusCode":"1",
+    "playerId":"",
+    "cardId":"",
+    "description":""
+}
+
+//跟牌请求
+{
+    "requestStatusCode":"2",
+    "playerId":"",
+    "cardId":""
+}
+
+//选牌请求
+{
+    "requestStatusCode":"3",
+    "playerId":"",
+    "cardId":""
+}
+
+//请求结束游戏
+{
+    "requestStatusCode":"4",
+    "playerId":"",
+}
+
+//不正常退出
+{
+    "requestStatusCode":"5",
+    "playerId":"",
+}
+
+//请求重连
+{
+    "requestStatusCode":"6",
+    "playerId":"",
+}
